@@ -30,7 +30,7 @@
   "devDependencies": {
     "body-parser": "^1.18.3",
     "chokidar": "^2.1.5",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "livereload": "^0.7.0"
   }
 }
